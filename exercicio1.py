@@ -1,7 +1,7 @@
 #Estou realizando esse exercício para relembrar coisas que já aprendi anteriomente,
 #estou fazendo isso para acompanhar o curso da udemy
 
-#vou fazer de um jeito mais elaborado que o da aula pra ficar mais produtivo
+#vou fazer de um jeito um pouco mais elaborado que o da aula pra ficar mais produtivo
 #desativei completar o código pra não ficar mais fácil
 #eu fiz de uma maneira mais estranha pra poder utilizar mais tipos de variáveis
 
